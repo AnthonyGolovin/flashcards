@@ -1,0 +1,170 @@
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  width: 20%;
+  float: left;
+}
+.contentcards1 {
+  float: left;
+  display: none;
+}
+.contentcards2 {
+  float: left;
+  display: none;
+}
+.contentcards3 {
+  float: left;
+  display: none;
+}
+.contentcards4 {
+  float: left;
+  display: none;
+}
+.contentcards5 {
+  float: left;
+  display: none;
+}
+.contentcards6 {
+  float: left;
+  display: none;
+}
+.contentcards7 {
+  float: left;
+  display: none;
+}
+.contentcards8 {
+  float: left;
+  display: none;
+}
+.contentcards9 {
+  float: left;
+  display: none;
+}
+.contentcards10 {
+  float: left;
+  display: none;
+}
+.contentcards11 {
+  float: left;
+  display: none;
+}
+.contentcards12{
+  float: left;
+  display: none;
+}
+.contentcards13 {
+  float: left;
+  display: none;
+}
+.contentcards14 {
+  float: left;
+  display: none;
+}
+.contentcards15 {
+  float: left;
+  display: none;
+}
+.contentcards16 {
+  float: left;
+  display: none;
+}
+.contentcards17 {
+  float: left;
+  display: none;
+}
+.contentcards18 {
+  float: left;
+  display: none;
+}
+.contentcards19 {
+  float: left;
+  display: none;
+}
+
+.clickable1{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable2{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable3{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable4{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable5{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable6{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable7{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable8{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable9{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable10{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable11{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable12{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable13{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable14{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable15{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable16{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable17{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable18{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable19{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.flashcard1{
+  float:left;
+  display: none;
+}
